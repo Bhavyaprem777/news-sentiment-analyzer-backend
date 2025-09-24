@@ -1,0 +1,104 @@
+[
+  {
+    "text": "Enter a news article URL or paste text below to analyze its sentiment. Our AI model will determine whether the content is positive, negative, or neutral and explain why.",
+    "overall_sentiment": "Positive",
+    "score": 0.366,
+    "timestamp": "2025-04-08 19:48:00",
+    "key_phrases": [
+      "a news article URL",
+      "paste",
+      "text",
+      "its sentiment",
+      "Our AI model",
+      "the content"
+    ],
+    "summary": ""
+  },
+  {
+    "text": "Enter a news article URL or paste text below to analyze its sentiment. Our AI model will determine whether the content is positive, negative, or neutral and explain why.",
+    "overall_sentiment": "Positive",
+    "score": 0.366,
+    "timestamp": "2025-04-08 19:48:00",
+    "key_phrases": [
+      "a news article URL",
+      "paste",
+      "text",
+      "its sentiment",
+      "Our AI model",
+      "the content"
+    ],
+    "summary": ""
+  },
+  {
+    "text": "I really tried to enjoy the experience, but it was incredibly disappointing.\nNothing worked as expected, and the support was unhelpful.",
+    "overall_sentiment": "Negative",
+    "score": 0.513,
+    "timestamp": "2025-04-08 19:49:10",
+    "key_phrases": [
+      "I",
+      "the experience",
+      "it",
+      "Nothing",
+      "the support"
+    ],
+    "summary": ""
+  },
+  {
+    "text": "I really tried to enjoy the experience, but it was incredibly disappointing.\nNothing worked as expected, and the support was unhelpful.",
+    "overall_sentiment": "Negative",
+    "score": 0.513,
+    "timestamp": "2025-04-08 19:49:10",
+    "key_phrases": [
+      "I",
+      "the experience",
+      "it",
+      "Nothing",
+      "the support"
+    ],
+    "summary": ""
+  },
+  {
+    "text": "Advanced Encryption Standard (AES) is a highly trusted encryption algorithm used to secure data. It is developed by the National Institute of Standards and Technology (NIST) in 2001. AES encryption uses various key lengths (128, 192, or 256 bits) to provide strong protection.",
+    "overall_sentiment": "Very Positive",
+    "score": 0.573,
+    "timestamp": "2025-04-25 11:59:10",
+    "key_phrases": [
+      "Advanced Encryption Standard",
+      "(AES",
+      "a highly trusted encryption algorithm",
+      "data",
+      "It",
+      "the National Institute",
+      "Standards",
+      "Technology",
+      "(NIST",
+      "AES encryption",
+      "various key lengths",
+      "256 bits",
+      "strong protection"
+    ],
+    "summary": ""
+  },
+  {
+    "text": "Advanced Encryption Standard (AES) is a highly trusted encryption algorithm used to secure data. It is developed by the National Institute of Standards and Technology (NIST) in 2001. AES encryption uses various key lengths (128, 192, or 256 bits) to provide strong protection.",
+    "overall_sentiment": "Very Positive",
+    "score": 0.573,
+    "timestamp": "2025-04-25 11:59:10",
+    "key_phrases": [
+      "Advanced Encryption Standard",
+      "(AES",
+      "a highly trusted encryption algorithm",
+      "data",
+      "It",
+      "the National Institute",
+      "Standards",
+      "Technology",
+      "(NIST",
+      "AES encryption",
+      "various key lengths",
+      "256 bits",
+      "strong protection"
+    ],
+    "summary": ""
+  }
+]
